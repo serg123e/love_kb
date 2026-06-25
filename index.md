@@ -230,4 +230,4 @@
 - [Simpson & Rholes 2017 — Attachment & Stress](wiki/sources/simpson-rholes-2017.md) — диатез-стресс.
 - [EFT — эффективность](wiki/sources/eft-efficacy.md) — d≈1.3, но 46% на 2 года.
 - [Stanley et al. 2006 — Sliding vs Deciding](wiki/sources/stanley-2006-sliding-deciding.md) — инерция, cohabitation effect.
-- [Relationship Education Meta (MRE/PREP)](wiki/sources/relationship-education-meta.md) — d≈0.3–0.5; сильнее на коммуникацию.
+- [Обучение отношениям (MRE/PREP)](wiki/sources/relationship-education-meta.md) — чему учить (speaker-listener, 4 danger signs) + примеры: OurRelationship (онлайн), провалы BSF/SHM.
