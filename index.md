@@ -232,3 +232,12 @@
 - [Stanley et al. 2006 — Sliding vs Deciding](wiki/sources/stanley-2006-sliding-deciding.md) — инерция, cohabitation effect.
 - [Обучение отношениям (MRE/PREP)](wiki/sources/relationship-education-meta.md) — чему учить (speaker-listener, 4 danger signs) + примеры: OurRelationship (онлайн), провалы BSF/SHM.
 - [Русскоязычная литература (RU)](wiki/sources/русскоязычная-литература.md) — Обозов, ОУБ/РОП, адаптации ECR, факторы стабильности; пробел: нет рус-критики предсказуемости влечения.
+
+#### Русскоязычные работы (отдельные разборы)
+
+- [Обозов, Обозова 1981](wiki/sources/obozov-1981.md) — совместимость vs срабатываемость; три подхода.
+- [Волкова, Трапезникова 1985 (РОП)](wiki/sources/volkova-1985.md) — методика ролевых ожиданий и притязаний в браке.
+- [Сабельникова, Каширский 2015](wiki/sources/sabelnikova-kashirsky-2015.md) — рус. опросник привязанности (адаптация ECR).
+- [Фурманов 2019](wiki/sources/furmanov-2019.md) — привязанность и реакции на ревность (N=507).
+- [Сычёв, Аношкин 2024](wiki/sources/sychev-anoshkin-2024.md) — рус. опросники конфликта (по Готтману, N=415).
+- [Костина и др. 2020](wiki/sources/kostina-2020.md) — совместимость по ролям важнее согласия по ценностям.
