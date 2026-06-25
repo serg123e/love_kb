@@ -9,6 +9,8 @@
 - [Привязанность у взрослых](wiki/topics/привязанность-у-взрослых.md) — две традиции (self-report vs AAI) слабо сходятся (r≈.09); романтическая любовь как привязанность, двумерная модель, стабильность. 9 источников.
 - [Нейробиология любви](wiki/topics/нейробиология-любви.md) — окситоцин/вазопрессин, дофаминовая система, полёвки, fMRI (любовь как драйв); критика мифа «гормон любви». 13 источников.
 - [Психология любви у человека](wiki/topics/психология-любви.md) — таксономии: треугольная теория Стернберга, стили Ли, страстная/компаньонская, темперамент Фишер; критика «греческих слов» и WEIRD. 8 источников.
+- [Подбор пар: предсказание долгой любви](wiki/topics/подбор-пар.md) — что предсказать нельзя (совместимость) и что можно (процессные предикторы); привязанность-фит, интервенции. 24 источника.
+- ⭐ [Методика подбора пар](wiki/topics/методика-подбора-пар.md) — **доказательный протокол**: отсев дилбрейкеров + наблюдение живой диады вместо подбора по анкете; уровни уверенности и границы.
 
 ## Концепты
 
@@ -62,6 +64,22 @@
 - [Типы темперамента Фишер](wiki/concepts/типы-темперамента-фишер.md) — Explorer/Builder/Director/Negotiator; мост к нейробиологии.
 - [Самораширение](wiki/concepts/самораширение.md) — любовь как расширение «я» через включение другого (Арон).
 
+### Подбор пар (предсказание долгой любви)
+
+- [Предсказуемость совместимости](wiki/concepts/предсказуемость-совместимости.md) — actor/partner/relationship эффекты; «химию» пары предсказать заранее нельзя.
+- [Отзывчивость партнёра](wiki/concepts/отзывчивость-партнёра.md) — понимает–ценит–заботится; ядро близости (Райс).
+- [Четыре всадника + презрение, 5:1](wiki/concepts/четыре-всадника.md) — деструктивные паттерны конфликта (Готтман); точность предсказания — миф.
+- [Инвестиционная модель](wiki/concepts/инвестиционная-модель.md) — приверженность = удовлетворённость + вложения − альтернативы (Расбалт).
+- [Идеализация партнёра](wiki/concepts/идеализация-партнёра.md) — позитивные иллюзии удерживают пару (Мюррей).
+- [Благодарность в отношениях](wiki/concepts/благодарность-в-отношениях.md) — find-remind-bind (Элго).
+- [Капитализация](wiki/concepts/капитализация.md) — как партнёр радуется твоим успехам (active-constructive отклик).
+- [VSA-модель](wiki/concepts/vsa-модель.md) — уязвимости × стресс × адаптация (Карни–Брэдбери).
+- [Диадическая привязанность пары](wiki/concepts/диадическая-привязанность-пары.md) — комбинация тревоги/избегания обоих.
+- [Тревожно-избегающая ловушка](wiki/concepts/тревожно-избегающая-ловушка.md) — худшая инсекьюрная диада; преследование↔отстранение.
+- [Эмоционально-фокусированная терапия (EFT)](wiki/concepts/эмоционально-фокусированная-терапия.md) — привязанность-терапия пар (Джонсон).
+- [Скольжение vs решение](wiki/concepts/скольжение-vs-решение.md) — вкатывание vs осознанный выбор переходов (Стэнли).
+- [Фундаментальная совместимость целей](wiki/concepts/фундаментальная-совместимость-целей.md) — дилбрейкеры (дети, ценности).
+
 ## Сущности
 
 - [Гарри Харлоу](wiki/entities/гарри-харлоу.md) — психолог (1905–1981), эксперименты «природа любви» на макаках-резусах.
@@ -96,6 +114,17 @@
 - [Элейн Хэтфилд](wiki/entities/элейн-хэтфилд.md) — страстная vs компаньонская любовь; PLS.
 - [Зик Рубин](wiki/entities/зик-рубин.md) — первая шкала любви; симпатия vs любовь.
 - [Клайв Льюис](wiki/entities/клайв-льюис.md) — «The Four Loves» (1960); 4 греческих понятия.
+- [Сэмэнта Джоэл](wiki/entities/сэмэнта-джоэл.md) — ML-предсказуемость влечения и качества отношений.
+- [Пол Иствик](wiki/entities/пол-иствик.md) — предпочтения, влечение, (не)предсказуемость совместимости.
+- [Илай Финкель](wiki/entities/илай-финкель.md) — критический анализ онлайн-знакомств и алгоритмов.
+- [Джон Готтман](wiki/entities/джон-готтман.md) — предсказание развода, четыре всадника, презрение.
+- [Гарри Райс](wiki/entities/гарри-райс.md) — воспринимаемая отзывчивость партнёра, близость.
+- [Карил Расбалт](wiki/entities/карил-расбалт.md) — инвестиционная модель обязательства.
+- [Сандра Мюррей](wiki/entities/сандра-мюррей.md) — позитивные иллюзии / идеализация.
+- [Сара Элго](wiki/entities/сара-элго.md) — благодарность (find-remind-bind).
+- [Карни и Брэдбери](wiki/entities/карни-брэдбери.md) — VSA-модель брачных исходов.
+- [Сью Джонсон](wiki/entities/сью-джонсон.md) — эмоционально-фокусированная терапия пар (EFT).
+- [Скотт Стэнли](wiki/entities/скотт-стэнли.md) — sliding vs deciding, обязательство, PREP.
 
 ## Источники
 
@@ -170,3 +199,35 @@
 - [Sternberg 1995 — Love as a Story](wiki/sources/sternberg-1995-love-as-story.md) — нарративная теория.
 - [Aron & Aron 1986 — Self-Expansion](wiki/sources/aron-aron-1986-self-expansion.md) — любовь как расширение «я»; IOS.
 - [Fisher et al. 2015 — Four Temperament Dimensions](wiki/sources/fisher-2015-temperament.md) — FTI; темперамент и нейромедиаторы.
+
+### Подбор пар — предсказуемость и matching
+
+- [Joel et al. 2017 — Is Romantic Desire Predictable?](wiki/sources/joel-2017-romantic-desire.md) — совместимость пары не предсказать заранее.
+- [Finkel et al. 2012 — Online Dating](wiki/sources/finkel-2012-online-dating.md) — у matching-алгоритмов нет доказательств.
+- [Eastwick & Finkel 2008 — Mate Preferences](wiki/sources/eastwick-finkel-2008-mate-preferences.md) — заявленные предпочтения ≠ реальный выбор.
+- [Eastwick et al. 2014 — Ideal Partner Preferences](wiki/sources/eastwick-2014-ideal-preferences.md) — preference-matching слабо предсказывает.
+- [Tidwell et al. 2013 — Perceived Similarity](wiki/sources/tidwell-2013-perceived-similarity.md) — воспринимаемое, не фактическое сходство.
+- [Bahns et al. 2017 — Similarity as Niche](wiki/sources/bahns-2017-similarity-niche.md) — пары похожи из-за отбора, не сближения.
+- [Eastwick et al. 2023 — Predicting Interest](wiki/sources/eastwick-2023-predicting-interest.md) — преregistered; совместимость по-прежнему слабо предсказуема.
+- [Eastwick et al. 2025 — Worldwide Preference Matching](wiki/sources/eastwick-2025-worldwide-preferences.md) — мировой тест: β.19→.11.
+
+### Подбор пар — что предсказывает долгую любовь
+
+- [Joel et al. 2020 — ML Predictors (43 datasets)](wiki/sources/joel-eastwick-2020-ml-predictors.md) — relationship-specific ≈45%, черты партнёра ≈0.
+- [Gottman & Levenson — Predicting Divorce](wiki/sources/gottman-levenson-divorce.md) — каскад, четыре всадника, тайминг.
+- [Heyman & Slep 2001 — Hazards of Predicting Divorce](wiki/sources/heyman-slep-2001.md) — критика: без кросс-валидации PPV ~21%.
+- [Le & Agnew 2003 — Investment Model Meta](wiki/sources/le-agnew-2003-investment-model.md) — приверженность → стабильность.
+- [Murray et al. 1996 — Positive Illusions](wiki/sources/murray-1996-idealization.md) — идеализация удерживает пару.
+- [Algoe — Gratitude (find-remind-bind)](wiki/sources/algoe-gratitude.md) — благодарность как клей.
+- [Gable et al. 2004 — Capitalization](wiki/sources/gable-2004-capitalization.md) — active-constructive отклик на хорошие новости.
+- [Karney & Bradbury 1995 — VSA Model](wiki/sources/karney-bradbury-1995-vsa.md) — уязвимости × стресс × адаптация.
+
+### Подбор пар — привязанность-фит и интервенции
+
+- [Candel & Turliuc 2019 — Attachment & Satisfaction](wiki/sources/candel-turliuc-2019.md) — мета-анализ 132 исследований (APIM).
+- [Li & Chan 2012 — Anxious vs Avoidant](wiki/sources/li-chan-2012.md) — диссоциация профилей (N=21 602).
+- [Rodriguez et al. 2020 — Dyadic Attachment](wiki/sources/rodriguez-2020-dyadic.md) — anxious-avoidant — худшая диада.
+- [Simpson & Rholes 2017 — Attachment & Stress](wiki/sources/simpson-rholes-2017.md) — диатез-стресс.
+- [EFT — эффективность](wiki/sources/eft-efficacy.md) — d≈1.3, но 46% на 2 года.
+- [Stanley et al. 2006 — Sliding vs Deciding](wiki/sources/stanley-2006-sliding-deciding.md) — инерция, cohabitation effect.
+- [Relationship Education Meta (MRE/PREP)](wiki/sources/relationship-education-meta.md) — d≈0.3–0.5; сильнее на коммуникацию.
