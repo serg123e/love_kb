@@ -231,3 +231,4 @@
 - [EFT — эффективность](wiki/sources/eft-efficacy.md) — d≈1.3, но 46% на 2 года.
 - [Stanley et al. 2006 — Sliding vs Deciding](wiki/sources/stanley-2006-sliding-deciding.md) — инерция, cohabitation effect.
 - [Обучение отношениям (MRE/PREP)](wiki/sources/relationship-education-meta.md) — чему учить (speaker-listener, 4 danger signs) + примеры: OurRelationship (онлайн), провалы BSF/SHM.
+- [Русскоязычная литература (RU)](wiki/sources/русскоязычная-литература.md) — Обозов, ОУБ/РОП, адаптации ECR, факторы стабильности; пробел: нет рус-критики предсказуемости влечения.
